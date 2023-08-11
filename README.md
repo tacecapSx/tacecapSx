@@ -1,6 +1,8 @@
 Danish student studying software technology at DTU.
 
-I usually use GitHub for source control in private projects and small-scale collaborations, but feel free to check out any projects that are public!
+I use GitHub for source control in private projects and small-scale collaborations, but feel free to check out any projects that are public!
+
+(Also check out my [itch page](https://tacecaps.itch.io/) if indie games sound interesting!)
 
 /tace
 
